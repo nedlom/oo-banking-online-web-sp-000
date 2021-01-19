@@ -19,7 +19,7 @@ class Transfer
       receiver.deposit(amount)
       self.status = "complete
     else
-    
+      
     end
   end
   
