@@ -33,30 +33,6 @@ class Transfer
   end
 end
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # class Transfer
   
 #   attr_accessor :sender, :receiver, :status, :amount
